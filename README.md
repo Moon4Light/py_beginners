@@ -32,6 +32,7 @@ File Name | Description
 [rainbow_hex.py](https://github.com/LySergicaciD125/py_beginners/blob/main/rainbow_hex.py) | Prints the hexadecimal code for the colors of the rainbow
 [reverse_integer.py](https://github.com/LySergicaciD125/py_beginners/blob/main/reverse_integer.py) | reverse given integer number from user input
 [reverse_string.py](https://github.com/LySergicaciD125/py_beginners/blob/main/reverse_string.py) | reverse given string number from user input
+[send_mail.py](https://github.com/Moon4Light/py_beginners/blob/main/send_mail.py) | Program to Send Mail in Python
 [sparse_number.py](https://github.com/LySergicaciD125/py_beginners/blob/main/sparse_number.py) | determine whether a given number is sparse number
 [string_permutations.py](https://github.com/LySergicaciD125/py_beginners/blob/main/string_permutations.py) | different permutations of a string given by user is printed
 [timer_prog.py](https://github.com/LySergicaciD125/py_beginners/blob/main/timer_prog.py) | create a timer to wait for x second before doing some actions
